@@ -24,3 +24,4 @@ data/*
 # MLflow / experiment tracking local artifacts
 mlruns/
 wandb/
+mlflow.db
