@@ -25,3 +25,4 @@ data/*
 mlruns/
 wandb/
 mlflow.db
+data/
