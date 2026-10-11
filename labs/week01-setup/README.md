@@ -10,10 +10,27 @@ then commit and push this file as part of the `week01-setup` branch / PR.
 
 ```
 $ python --version
-(paste output here)
+((.venv) vikra@VikkysAW:~$ python3 --version
+Python 3.11.16)
 
 $ python hello_env.py
-(paste output here)
+((.venv) vikra@VikkysAW:~/mlops-course$ python hello_env.py
+
+
+
+
+
+Your environment is alive.
+
+                   Week 1 Environment Check
+┏━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Check          ┃ Result                                    ┃
+┡━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ Python version │ 3.11.16                                   │
+│ Executable     │ /home/vikra/mlops-course/.venv/bin/python │
+│ Platform       │ Linux                                     │
+└────────────────┴───────────────────────────────────────────┘
+)
 ```
 
 ## Reflection (second PR)
